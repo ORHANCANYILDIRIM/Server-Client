@@ -1,0 +1,27 @@
+[2025-03-04 23:31:30] İstemci uygulaması başlatıldı.
+[2025-03-04 23:31:40] Hata: Connection refused: connect
+[2025-03-04 23:31:52] Sunucuya bağlandı: :5000
+[2025-03-04 23:31:59] Gönderilen mesaj: merhaba
+[2025-03-04 23:31:59] Sunucudan gelen mesaj: Sunucu: merhaba
+[2025-03-05 13:39:21] İstemci uygulaması başlatıldı.
+[2025-03-05 13:40:04] Sunucuya bağlandı: :1000
+[2025-03-05 13:40:16] Gönderilen mesaj: merhaba
+[2025-03-05 13:40:16] Sunucudan gelen mesaj: Sunucu: merhaba
+[2025-03-05 13:44:18] Gönderilen mesaj: kokpo
+[2025-03-05 13:44:18] Sunucudan gelen mesaj: Sunucu: kokpo
+[2025-03-05 13:44:58] Hata: No route to host: connect
+[2025-03-05 13:45:04] Sunucuya bağlandı: :1000
+[2025-03-05 13:45:18] İstemci uygulaması başlatıldı.
+[2025-03-05 13:50:32] Sunucuya bağlandı: localhost:3000
+[2025-03-05 13:50:42] Gönderilen mesaj: çetin erçelik
+[2025-03-05 13:50:42] Sunucudan gelen mesaj: Sunucu: çetin erçelik
+[2025-03-05 13:50:47] Gönderilen mesaj: sdffsdfdsfsdsf
+[2025-03-05 13:50:47] Sunucudan gelen mesaj: Sunucu: sdffsdfdsfsdsf
+[2025-03-05 13:50:58] Hata: Connection refused: connect
+[2025-03-05 13:51:04] Gönderilen mesaj: jkl
+[2025-03-05 13:51:04] Sunucudan gelen mesaj: Sunucu: jkl
+[2025-03-05 13:51:25] İstemci uygulaması başlatıldı.
+[2025-03-11 18:45:39] İstemci uygulaması başlatıldı.
+[2025-03-11 18:46:01] Sunucuya bağlandı: localhost:3000
+[2025-03-11 18:46:33] Gönderilen mesaj: Hello Github
+[2025-03-11 18:46:33] Sunucudan gelen mesaj: Sunucu: Hello Github
